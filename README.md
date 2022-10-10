@@ -8,6 +8,10 @@ An easy to use database API for Java projects that rely on the use of database. 
 - Updated Frequently
 
 # Usage 
+
+## YouTube Breakdown 
+https://www.youtube.com/watch?v=L5_FyodytZU
+
 ## Hikari Client
 Here is a custom class that extends the wrapped HikariClient class
 ```Java
